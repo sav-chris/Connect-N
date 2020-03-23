@@ -1,7 +1,7 @@
 
-# Author: Frederic Maire
-# File last changed on 2008-08-02
-
+# Authors: Chris Savini
+#          Tim Morris
+# Task Template Frederic Maire
 
 import random
 
@@ -272,25 +272,3 @@ if __name__ == '__main__':
      run_single_game()
 ##     run_HandicappedGameSeries()
      # raw_input()
-
-
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-     
-##
-##                CODE CEMETARY
-##                
-##     print cb.legalMoves()
-##
-##     cb.makeMove(1,2)
-##     print cb.legalMoves()
-##     
-##     cb.makeMove(-1,2)
-##     print cb.legalMoves()
-##     cb.makeMove(1,1)
-##     print cb.legalMoves()
-##     cb.makeMove(1,0)
-##     print cb.legalMoves()
-##     
-##     cb.display()
-##     
-##     cb2.display()
