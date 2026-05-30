@@ -62,7 +62,7 @@ They use algorithms such as:
 
 #### 🧮 **Minimax**
 
-#### **$ \alpha \beta $ Alpha‑Beta pruning**
+#### ** $ \alpha \beta $ Alpha‑Beta pruning**
 
 #### 🧠 **Heuristic evaluation functions**
 
